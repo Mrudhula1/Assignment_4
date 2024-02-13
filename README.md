@@ -9,3 +9,5 @@ PROBLEM - 2
 LINEAR REGRESSION:
 
 Importing the given “Salary_Data.csv” into a variable called data. Spliting the data using train_test_split() function, such that 1/3 of the data is reserved as test subset. Train the model using LinearRegression() function and predicting the values using the predict() function and calculating the mean_squared error of the predictied set and using pandas to Visualize both train and test data using scatter plot.
+
+VIDEO LINK: https://share.vidyard.com/watch/dQsHbW9XtfbGLxqLKDURv8?
